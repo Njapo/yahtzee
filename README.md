@@ -1,0 +1,1 @@
+This game is yahtzee (https://cardgames.io/yahtzee/) two or multiple players play agains each other, they roll dice get scores and so on. Finally player with highest score is winner. I wrote this game in java eclipse.
